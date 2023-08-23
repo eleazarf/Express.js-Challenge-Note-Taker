@@ -5,7 +5,7 @@ This project introduces "Note Taker," an app designed for creating, storing, and
 * [Description](#description)
 * [Install](#install)
 * [Use](#use)
-* [Heroku Deployment](#Heroku Deployment)
+* [Heroku Deployment](#deployment)
 
 ## Description
 Experience efficient note-taking with this application that seamlessly meets evaluation criteria. Upon opening the Note Taker, a user-friendly landing page greets you, featuring a prominent link to access your notes: 
@@ -40,5 +40,5 @@ npm start
 By executing this command, the server will start, and you can access the page at localhost:3300. To stop the server, simply enter "control + c" in your terminal.
 ![Alt text](images/image-5.png)
 
-## Heroku Deployment
+## Deployment
 You can test the Heroku deployed app at this link https://note-taker-eleazarf-1e3c41f99e96.herokuapp.com
